@@ -1,0 +1,11 @@
+.banner-button {
+  display: inline-block;
+  background-color: #1edd88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
+
+.banner-button:hover {
+  background-color: #1ebe76;
+}
